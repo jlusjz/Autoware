@@ -65,16 +65,7 @@ Autoware is protected by BSD License. Please use it on your own responsibility. 
 **NOTE: Following packages cannnot use in kinetic.**
 - gazebo
 - orb slam
-- klt
-- image viewers
-- points2polygon
-- calibtoolkit
 - dpm ocv
-- kf
-- road wizard
-- ndt tku
-- traffic light plugin
-- image viewer plugin
 
 ## How to Build
 
